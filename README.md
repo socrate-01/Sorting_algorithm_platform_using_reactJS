@@ -5,4 +5,4 @@
  <h3>To run this project:</h3>
  npm install;<br/>
  npm audit fix;<br/>
- npm start:<br/>
+ npm start<br/>
