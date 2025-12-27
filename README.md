@@ -26,6 +26,32 @@ By animating comparisons, swaps, and execution steps, the platform makes it easi
 
 ---
 
+## Supported Algorithms (V1)
+
+This platform currently visualizes the following sorting algorithms:
+
+### **Bubble Sort** (`BubbleSort.js`)
+
+A simple comparison-based algorithm that repeatedly steps through the list, swaps adjacent elements that are in the wrong order, and continues until the entire array is sorted.
+
+### **Selection Sort** (`SelectionSort.js`)
+
+This algorithm repeatedly selects the smallest (or largest) element from the unsorted portion and places it in its correct position in the sorted portion.
+
+### **Insertion Sort** (`InsertionSort.js`)
+
+Builds the final sorted array one element at a time by inserting each new element into its correct position among the already-sorted elements.
+
+### **Merge Sort** (`MergeSort.js`)
+
+A highly efficient **divide-and-conquer** algorithm that splits the array into halves, recursively sorts them, and merges the sorted halves back together.
+
+### **Quick Sort** (`QuickSort.js`)
+
+A fast and widely used divide-and-conquer algorithm that selects a pivot element, partitions the array around the pivot, and recursively sorts each partition.
+
+---
+
 ## Getting Started
 
 Clone the repository:
